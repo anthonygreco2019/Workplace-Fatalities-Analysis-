@@ -15,7 +15,7 @@
   
   ## Data
   
-  Data consisted of a single CSV file containing data on workplace fatalities, injuries, and illnesses for each state as well as data on saftey programs such as average fines issued, number of inspectors, and years to inspect each workplace once. 
+  Data consisted of a single CSV file containing data on workplace fatalities, injuries, and illnesses for each state during 2012 as well as data on saftey programs such as average fines issued, number of inspectors, and years to inspect each workplace once. 
   
   ## Methods
   
