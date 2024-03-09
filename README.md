@@ -1,6 +1,5 @@
  # Workplace Fatalities Analysis
-  [projectone_workplace_fatalities.pdf](https://github.com/anthonygreco2019/Workplace-Fatalities-Analysis-/files/14544288/projectone_workplace_fatalities.pdf)
-
+![projectone_workplace_fatalities](https://github.com/anthonygreco2019/Workplace-Fatalities-Analysis-/assets/157058144/9383522d-a6c9-4dca-9db6-bbcb940716f1)
   **Author:** Anthony Greco
   
   **Institution:** Quick Start Bootcamps
