@@ -7,7 +7,7 @@
   **Active Project Dates:** February 26th, 2024 - March 10th, 2024
   ## Summary
   
-  The workplace fatalities analysis project analyzes data on workplace fatalities and saftey inspection programs across fifty states.  
+  The workplace fatalities analysis project analyzes data on workplace fatalities and saftey inspection programs across fifty states during 2012.  
   
   ## Business Problem
   
