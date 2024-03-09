@@ -1,6 +1,6 @@
  # Workplace Fatalities Analysis
   
-  **Author: Anthony Greco **
+  **Author:** Anthony Greco
   
   **Institution:** Quick Start Bootcamps
   
