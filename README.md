@@ -22,7 +22,7 @@
   The project used exploratory data analysis and visualization methods to identify relevant varibles. Analyst evlauated the coorelation between workplace fatality rates, number of inspectors, and years to inspect workpalces using excel Correl function. 
   
   ## Results
-  The project finds that the number of saftery insperctors per fatality rate is modertaley cooralated (-0.5) to over all fatality rate. The higher the number of inspectors, the lower the rate of fatalities on average.
+  The project finds that the number of saftey insperctors per fatality rate is modertaley cooralated (-0.5) to over all fatality rate. The higher the number of inspectors, the lower the rate of fatalities on average.
  
   
   ## Conclusions
