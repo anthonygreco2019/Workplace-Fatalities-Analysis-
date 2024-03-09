@@ -23,6 +23,7 @@
   
   ## Results
   The project finds that the number of saftey insperctors per fatality rate is modertaley cooralated (-0.5) to over all fatality rate. The higher the number of inspectors, the lower the rate of fatalities on average.
+@jamesleemeredith-org
  
   
   ## Conclusions
